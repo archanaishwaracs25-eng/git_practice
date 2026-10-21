@@ -1,5 +1,5 @@
 #Git practice
 
-This is my git practice read me file
+hello am archana
 learning about git merge and conflicts.
 trying to do new pull request.
